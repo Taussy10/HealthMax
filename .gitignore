@@ -35,3 +35,5 @@ yarn-error.*
 *.tsbuildinfo
 
 Notes.txt
+
+src\Components\Baymax\Service/API.tsx
